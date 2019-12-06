@@ -4,11 +4,6 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/*
- * TODO:
- * Check if above 8 - get  rating, get overall score
- * Send Email - send google link to trailer, send rotten tomato link
- */
 public class MovieViewer {
 
     public static void main(String[] args) {
